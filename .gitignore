@@ -1,0 +1,10 @@
+@"
+data/
+outputs/
+*.tif
+*.tiff
+*.zip
+*.html
+.venv/
+__pycache__/
+"@ | Set-Content .gitignore
